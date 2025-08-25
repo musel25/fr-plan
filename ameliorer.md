@@ -1,0 +1,2 @@
+1. **Passé composé (verbes pronominaux)** - "je me suis levé" - preuve: "j'ai me levé" -> "je me suis levé" - action: revoir la formation du passé composé avec l'auxiliaire "être".
+2. **Prépositions** - "au Portugal", "à Compiègne", "en deuxième année" - preuve: "dans portugal" -> "au Portugal", "dans compiegne" -> "à Compiègne", "dans le deuxieme année" -> "en deuxième année" - action: revoir les prépositions pour les pays, les villes et les années d'études.
