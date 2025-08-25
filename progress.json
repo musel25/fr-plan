@@ -1,7 +1,15 @@
 {
   "date_session": "2025-08-25",
-  "streak": 1,
+  "streak": 2,
   "CEFR_estimate": "A2",
-  "topics_practiced": ["passé composé (pronominal verbs)", "prepositions (places, study years)", "futur proche/simple"],
-  "vocab_new": 17
+  "topics_practiced": [
+    "passé composé (pronominal verbs)",
+    "prepositions (places, study years)",
+    "futur proche/simple",
+    "Élision et expressions courantes",
+    "Verbes modaux et infinitif",
+    "Anglicismes et expressions idiomatiques",
+    "Articles partitifs"
+  ],
+  "vocab_new": 34
 }

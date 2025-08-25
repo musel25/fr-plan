@@ -1,2 +1,6 @@
 1. **Passé composé (verbes pronominaux)** - "je me suis levé" - preuve: "j'ai me levé" -> "je me suis levé" - action: revoir la formation du passé composé avec l'auxiliaire "être".
 2. **Prépositions** - "au Portugal", "à Compiègne", "en deuxième année" - preuve: "dans portugal" -> "au Portugal", "dans compiegne" -> "à Compiègne", "dans le deuxieme année" -> "en deuxième année" - action: revoir les prépositions pour les pays, les villes et les années d'études.
+3. **Élision et expressions courantes** - preuve: "le impact" -> "l'impact", "elle est un technologie" -> "c'est une technologie" - action: revoir les règles d'élision et l'utilisation de "c'est" vs "il/elle est".
+4. **Verbes modaux et infinitif** - preuve: "pourrais changé" -> "pourrait changer" - action: revoir la construction verbe modal + infinitif.
+5. **Anglicismes et expressions idiomatiques** - preuve: "un peu de months ago" -> "il y a quelques mois", "je been leaning" -> "je me suis orienté" - action: revoir les expressions courantes et éviter les traductions littérales de l'anglais.
+6. **Articles partitifs** - preuve: "faire de recherche" -> "faire de la recherche" - action: revoir l'utilisation des articles partitifs (du, de la, de l', des).
