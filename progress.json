@@ -1,6 +1,6 @@
 {
-  "date_session": "2025-08-25",
-  "streak": 2,
+  "date_session": "2025-08-27",
+  "streak": 4,
   "CEFR_estimate": "A2",
   "topics_practiced": [
     "passé composé (pronominal verbs)",
@@ -9,7 +9,13 @@
     "Élision et expressions courantes",
     "Verbes modaux et infinitif",
     "Anglicismes et expressions idiomatiques",
-    "Articles partitifs"
+    "Articles partitifs",
+    "Hypothèse (si + imparfait, conditionnel)",
+    "prépositions de lieu",
+    "prépositions de temps",
+    "subjonctif (initiation)",
+    "articles avec noms de pays"
   ],
-  "vocab_new": 34
+  "vocab_new": 9,
+  "vocab_practiced": 15
 }

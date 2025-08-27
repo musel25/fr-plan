@@ -32,3 +32,12 @@
 * traduction automatique - n.f. - processus de traduction de textes ou de paroles d'une langue à une autre par un ordinateur
 * chatbot - n.m. - programme informatique conçu pour simuler une conversation humaine
 * analyse de sentiments - n.f. - processus d'identification et d'extraction des opinions et des émotions exprimées dans un texte
+* musée - n.m. - lieu où sont exposées des œuvres d'art - exemple: "Aujourd'hui, je suis allé au musée du Louvre."
+* restaurant - n.m. - établissement où l'on sert des repas - exemple: "Nous sommes allés dans un restaurant de ramen."
+* illusion d'optique - n.f. - image qui trompe le système visuel humain. - exemple: "Le musée était rempli d'illusions d'optique."
+* œuvre - n.f. - création artistique. - exemple: "Les œuvres dans le musée sont juste peintes sur le mur."
+* concernant - prép. - à propos de, pour ce qui est de. - exemple: "Concernant votre question, la réponse est oui."
+* rien à voir avec - expr. - sans rapport avec. - exemple: "Ceci n'a rien à voir avec notre sujet."
+* tout au plus - expr. - au maximum. - exemple: "Ce sont, tout au plus, des illusions d'optique."
+* exercice - n.m. - activité pour s'entraîner. - exemple: "Faisons un exercice sur les prépositions."
+* jusqu'à ce que - conj. - indique la limite temporelle d'une action. Suivi du subjonctif. - exemple: "Je vais attendre jusqu'à ce qu'il arrive."

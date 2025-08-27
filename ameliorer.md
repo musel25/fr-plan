@@ -1,6 +1,8 @@
-1. **Passé composé (verbes pronominaux)** - "je me suis levé" - preuve: "j'ai me levé" -> "je me suis levé" - action: revoir la formation du passé composé avec l'auxiliaire "être".
-2. **Prépositions** - "au Portugal", "à Compiègne", "en deuxième année" - preuve: "dans portugal" -> "au Portugal", "dans compiegne" -> "à Compiègne", "dans le deuxieme année" -> "en deuxième année" - action: revoir les prépositions pour les pays, les villes et les années d'études.
+1. **Passé composé** - "je suis allé", "nous avons pris" - preuve: "je allais" -> "je suis allé", "nous avons prendre" -> "nous avons pris" - action: revoir la formation du passé composé (auxiliaire être/avoir + participe passé).
+2. **Prépositions de lieu (villes/pays)** - preuve: "dans portugal" -> "au Portugal" - action: Règle de base (à/en/au/aux) maîtrisée. Prochaine étape : les exceptions (ex: `en` + pays masc. à voyelle).
 3. **Élision et expressions courantes** - preuve: "le impact" -> "l'impact", "elle est un technologie" -> "c'est une technologie" - action: revoir les règles d'élision et l'utilisation de "c'est" vs "il/elle est".
 4. **Verbes modaux et infinitif** - preuve: "pourrais changé" -> "pourrait changer" - action: revoir la construction verbe modal + infinitif.
-5. **Anglicismes et expressions idiomatiques** - preuve: "un peu de months ago" -> "il y a quelques mois", "je been leaning" -> "je me suis orienté" - action: revoir les expressions courantes et éviter les traductions littérales de l'anglais.
-6. **Articles partitifs** - preuve: "faire de recherche" -> "faire de la recherche" - action: revoir l'utilisation des articles partitifs (du, de la, de l', des).
+5. **Anglicismes et expressions idiomatiques** - preuve: "regarding" -> "concernant", "nothing about" -> "rien à voir avec" - action: revoir les expressions courantes et éviter les traductions littérales de l'anglais.
+6. **Articles partitifs et quantités** - preuve: "faire de recherche" -> "faire de la recherche", "beaucoup des erreurs" -> "beaucoup d'erreurs" - action: revoir l'utilisation des articles partitifs et la règle de "de" après une quantité.
+7. **Articles avec les noms de pays** - preuve: "même si Angola est masculin" -> "même si l'Angola est masculin" - action: Penser à utiliser `le`, `la`, `l'` ou `les` en parlant des pays.
+8. **Subjonctif après certaines conjonctions** - preuve: "until je ne faire pas" -> "jusqu'à ce que je ne fasse" - action: Noter que des expressions comme `jusqu'à ce que` ou `bien que` sont suivies du subjonctif.
