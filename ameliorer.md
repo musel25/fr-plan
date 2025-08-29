@@ -1,5 +1,5 @@
-1. **Passé composé** - "je suis allé", "nous avons pris" - preuve: "je allais" -> "je suis allé", "nous avons prendre" -> "nous avons pris" - action: revoir la formation du passé composé (auxiliaire être/avoir + participe passé).
-2. **Prépositions de lieu (villes/pays)** - preuve: "dans portugal" -> "au Portugal" - action: Règle de base (à/en/au/aux) maîtrisée. Prochaine étape : les exceptions (ex: `en` + pays masc. à voyelle).
+1. **Passé composé** - "je suis allé", "nous avons pris" - preuve: "j'ai fairé" -> "j'ai fait" - action: revoir la formation du passé composé (auxiliaire être/avoir + participe passé).
+2. **Prépositions de lieu (villes/pays/lieux)** - preuve: "a une celebration" -> "à une célébration", "dans le college" -> "au collège" - action: Revoir l'usage de `à` (avec accent) pour les lieux/événements et `au/à la/à l'` pour les écoles/institutions.
 3. **Élision et expressions courantes** - preuve: "le impact" -> "l'impact", "elle est un technologie" -> "c'est une technologie" - action: revoir les règles d'élision et l'utilisation de "c'est" vs "il/elle est".
 4. **Verbes modaux et infinitif** - preuve: "pourrais changé" -> "pourrait changer" - action: revoir la construction verbe modal + infinitif.
 5. **Anglicismes et expressions idiomatiques** - preuve: "regarding" -> "concernant", "nothing about" -> "rien à voir avec" - action: revoir les expressions courantes et éviter les traductions littérales de l'anglais.
