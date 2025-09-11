@@ -26,6 +26,8 @@ Périphrases :
 – Futur proche (aller + inf.)
 – Présent progressif (être en train de + inf.)
 
+impersonnelles + infinitif
+
 A2 – raconter et enchaîner
 
 Passé composé (avoir/être + participe passé; accord avec être).

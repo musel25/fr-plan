@@ -23,3 +23,5 @@ Impératif présent (tu/nous/vous; pas de -s à tu pour -er, sauf y/en).
 Périphrases :
 – Futur proche (aller + inf.)
 – Présent progressif (être en train de + inf.)
+
+impersonnelles + infinitif
