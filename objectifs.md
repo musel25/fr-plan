@@ -1,9 +1,25 @@
-Revoir les structures grammaticales fondamentales pour consolider les bases.
+a1 recap
 
-Renforcer la précision dans l’utilisation des temps verbaux simples (présent, passé composé, imparfait).
+Ordre de la phrase, c’est / ce sont, il y a.
 
-Améliorer l’accord sujet-verbe et l’accord des adjectifs.
+Articles (défini/indéfini/partitif) + contractions au/du/aux.
 
-Clarifier l’emploi des prépositions les plus courantes.
+Présent de l’indicatif (être/avoir/aller/faire + -er/-ir/-re, 10 irréguliers clés).
 
-Réactiver du vocabulaire de base à travers des phrases simples mais correctes.
+Négation (ne… pas, puis jamais/plus/rien/personne basiques).
+
+Questions (intonation, est-ce que, inversion simple).
+
+Adjectifs (accords + position) & adverbes (placement).
+
+Déterminants/Pronoms possessifs (mon/ma/mes, le mien/la mienne…).
+
+Démonstratifs (ce/cet/cette/ces).
+
+Prépositions de lieu/temps (à, de, en/au/aux, chez, dans, pendant, depuis).
+
+Impératif présent (tu/nous/vous; pas de -s à tu pour -er, sauf y/en).
+
+Périphrases :
+– Futur proche (aller + inf.)
+– Présent progressif (être en train de + inf.)
